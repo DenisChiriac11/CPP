@@ -1,0 +1,3 @@
+C:/Users/Denis/CLionProjects/DSAL3/cmake-build-debug/CMakeFiles/DSAL3.dir
+C:/Users/Denis/CLionProjects/DSAL3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Denis/CLionProjects/DSAL3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
